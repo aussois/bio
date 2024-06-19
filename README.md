@@ -10,7 +10,7 @@ What languages i can speak: Russian(good), Ukranian(not bad?, idk), English(idk.
 My bots: @AssEcho_Bot, @NoRulesEcho_bot(Russian)</p3>
 
 <style>
-background-color: black
+background-color: #1c1c1c
 .p1, p2, p3{
-color: white}
+color: #ffffff}
 </style>
