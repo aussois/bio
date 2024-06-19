@@ -1,5 +1,4 @@
-<html>
-<body>
+```html
 <h1>Heeeeloooooo!!11!!</h1>
 
 <p1>I'm aussois. And i'm starting coder.</p1>
@@ -16,5 +15,4 @@ My bots: @AssEcho_Bot, @NoRulesEcho_bot(Russian)</p3>
     .p1, p2, p3{
     color: #ffffff}
   </style>
-</body>
-</html>
+```
